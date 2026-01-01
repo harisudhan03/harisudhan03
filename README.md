@@ -1,6 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/.../giphy.gif"> I'm Harisudhan
-
-• ✉️ You can contact me at hharisudhan@gmail.com ===============================================================================================================================
+## Hi 👋 I'm Harisudhan
 
 🚀 Entry-Level MERN Stack / Frontend Developer  
 💻 Passionate about building responsive and user-friendly web applications
