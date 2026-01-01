@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi 👋 I'm Harisudhan
 
-<!--
-**harisudhan03/harisudhan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Entry-Level MERN Stack / Frontend Developer  
+💻 Passionate about building responsive and user-friendly web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 BCA graduate with hands-on project experience in web development
+- 🌐 Focused on frontend development using React.js
+- ⚙️ Backend exposure with Node.js, Express.js, MongoDB
+- 🔗 Enjoy working with REST APIs and modern UI frameworks
+- 🌱 Always learning and improving my development skills
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:**  
+HTML5, CSS3, JavaScript, TypeScript, React.js, Tailwind CSS, Bootstrap, Material UI  
+
+**State Management & Routing:**  
+Context API, Redux, React Router DOM  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:** 
+MongoDB,Mongoose
+
+**Tools:**  
+Git, GitHub, VS Code, Postman, Thunder Client  
+
+---
+
+### 📂 Projects
+- 🛒 **EZKART** – Full Stack E-Commerce Web Application (MERN)
+- 👗 **Forever Fashion** – React-based Online Clothing Store
+- 🎬 **Movie Streaming App** – React + TMDB API + Firebase Auth
+
+👉 Check my repositories for source code & live demos
+
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/hari-sudhan-/
+- 💻 GitHub: https://github.com/harisudhan03
+- 🌍 Portfolio: https://harisudhan-profile-hub.netlify.app
+- 📧 Email: hharisudhan45@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+
