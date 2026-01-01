@@ -1,4 +1,6 @@
-## Hi 👋 I'm Harisudhan
+## Hi <img src="https://media.giphy.com/media/.../giphy.gif"> I'm Harisudhan
+
+• ✉️ You can contact me at hharisudhan@gmail.com ===============================================================================================================================
 
 🚀 Entry-Level MERN Stack / Frontend Developer  
 💻 Passionate about building responsive and user-friendly web applications
@@ -22,13 +24,13 @@ HTML5, CSS3, JavaScript, TypeScript, React.js, Tailwind CSS, Bootstrap, Material
 Context API, Redux, React Router DOM  
 
 **Backend:**  
-Node.js, Express.js  
+Node.js, Express.js,RESTful APIs,Middleware,Routing  
 
 **Database:** 
-MongoDB,Mongoose
+MongoDB, Mongoose
 
 **Tools:**  
-Git, GitHub, VS Code, Postman, Thunder Client  
+Git, GitHub, VS Code, NPM, Postman, Thunder Client  
 
 ---
 
